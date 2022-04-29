@@ -1,0 +1,28 @@
+- name: University of Waterloo
+  degree: Bachelor of Computer Science
+  url: https://uwaterloo.ca/
+  image: /assets/images/org_icons/waterloo.png
+  dates: September 2015 - May 2020
+  courses:
+    - MTE544 Autonomous Mobile Robots
+    - CS486 Introduction to Artificial Intelligence
+    - CS480 Introduction to Machine Learning
+    - CS456 Computer Networks
+    - CS458 Computer Security and Privacy
+  highlights:
+    - Achieved a 88% Cumulative Average and 90% Major Average
+    - Completed 6/6 co-op placements, earning 5 Outstanding and 1 Excellent work term evaluations
+
+
+- name: University of Waterloo
+  degree: Masters of Applied Sciences
+  url: https://uwaterloo.ca/
+  image: /assets/images/org_icons/waterloo.png
+  dates: September 2020 - August 2022
+  courses:
+    - CS646 Computational Vision
+    - ECE780 Model Predictive Control
+  highlights:
+    - 95% course work average
+    - Alexander Graham Bell Scholarship awardee
+    - ICRA 2022 Author & Presenter
