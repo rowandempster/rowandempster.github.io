@@ -1,0 +1,9 @@
+covid:
+  name: COVID Outcome Prediction
+  bio: "Building a classification model using Deep Neural Networks on the Ontario COVID-19 dataset."
+  avatar: /assets/images/posts/covid/rnn.png
+  location: "Waterloo, ON"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rowandempster/covid_outcome_prediction"
