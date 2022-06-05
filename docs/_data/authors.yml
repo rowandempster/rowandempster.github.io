@@ -7,3 +7,23 @@ covid:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rowandempster/covid_outcome_prediction"
+
+cv:
+  name: Self-Supervised Disparity Estimation with Perceptual Loss
+  bio: "Building a disparity estimation model using self-supervised learning and perceptual loss to combat color-consistency assumption violations."
+  avatar: /assets/images/posts/cv/teaser.png
+  location: "Waterloo, ON"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rowandempster/CV-Project"
+
+rl:
+  name: Reinforcement Learning for Intersection Traversal
+  bio: "Learning to negotiate unsignalized intersections safely via hierarchical planning and curriculum RL."
+  avatar: /assets/images/posts/rl/teaser.png
+  location: "Waterloo, ON"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rowandempster/CS885-proj"
