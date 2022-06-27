@@ -9,7 +9,7 @@ layout: archive
 {% if paginator %}
   {% assign posts = paginator.news %}
 {% else %}
-  {% assign posts = site.news %}
+  {% assign posts = site.news | reverse %}
 {% endif %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}

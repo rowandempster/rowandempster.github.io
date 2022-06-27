@@ -27,3 +27,13 @@ rl:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rowandempster/CS885-proj"
+
+tech-talk:
+  name: WATO Tech Talk Series
+  bio: "WATonomous hosts biweekly AV tech talks at UW, of which I have presented at six."
+  avatar: /assets/images/posts/tech-talk/teaser.jpeg
+  location: "Waterloo, ON"
+  links:
+    - label: "YouTube Playlist"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/playlist?list=PLGlaTbm0Iolht_I3Iw5oR-We-gbye5JXQ"
