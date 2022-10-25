@@ -6,12 +6,14 @@ toc_sticky: true
 toc_label: "About Me"
 ---
 
-Hi, I'm Rowan. I am graduated from UWaterloo's CS Co-op program in June 2020 with an academic and extracurricular focus on robotics and automation. Now I'm back in school working on a MASc in ECE under the supervision of Derek Rayside. I'm research environment modeling and motion planning for AVs, using WATonomous as a platform, and having a great time!
+- In June 2020 I graduated from UWaterloo's CS Co-op program, with an academic and extracurricular focus on robotics and automation. 
+- I am graduating from my MASc from UWaterloo in Fall 2022, under the supervision of Derek Rayside.
+- My research is focussed on motion planning software with an application to automated driving. Publication topics include mapping & environment modeling, action classification from video steams, and trajectory planning & control. See my [Google Scholar profile](https://scholar.google.com/citations?user=hKf7WaAAAAAJ) for details.
 
-Some things I enjoy are:
+<!-- Some things I enjoy are:
 - Autonomous Vehicles and Robotics in general
 - Building human systems that work efficiently
-- Architecting software systems
+- Architecting software systems -->
 
 Please look through this page to get an idea of what I've done, and where I'm heading!
 
@@ -27,7 +29,7 @@ Please look through this page to get an idea of what I've done, and where I'm he
 - {{ highlight }}
 {% endfor %}
 
-<details><summary>Selected Courses</summary>
+<details><summary>Selected Courses</summary>`
 <br>
 {% for course in edu.courses %}
 - {{ course }} <br>
