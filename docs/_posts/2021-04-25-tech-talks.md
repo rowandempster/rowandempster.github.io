@@ -1,8 +1,9 @@
 ---
-title: "WATO Tech Talk Series"
+title: "WATonomous Tech Talk Series"
 categories:
   - WATO
 tags:
+  - Automated Driving
   - Education
 excerpt: "WATonomous hosts biweekly AV tech talks at UW, of which I have presented at six."
 header:
@@ -18,7 +19,7 @@ author: tech-talk
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/MZ9m00nMXuc" frameborder="0" allowfullscreen></iframe>
 
-## HD Mapping and Behavioural Planning
+## HD Mapping and Behavioral Planning
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/WXw4hlBNpLY" frameborder="0" allowfullscreen></iframe>
 

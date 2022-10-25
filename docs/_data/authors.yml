@@ -29,7 +29,7 @@ rl:
       url: "https://github.com/rowandempster/CS885-proj"
 
 tech-talk:
-  name: WATO Tech Talk Series
+  name: WATonomous Tech Talk Series
   bio: "WATonomous hosts biweekly AV tech talks at UW, of which I have presented at six."
   avatar: /assets/images/posts/tech-talk/teaser.jpeg
   location: "Waterloo, ON"
@@ -37,3 +37,49 @@ tech-talk:
     - label: "YouTube Playlist"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/playlist?list=PLGlaTbm0Iolht_I3Iw5oR-We-gbye5JXQ"
+
+sw:
+  name: WATonomous Software Architecture and Data Pipeline
+  bio: "A Dockerized automated driving stack, allowing for fast onboarding, prototyping, and deployment."
+  avatar: /assets/images/posts/sw/teaser.png
+  location: "Waterloo, ON"
+  # links:
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/rowandempster/CS885-proj"
+
+map:
+  name: WATonomous Mapping, Environment Modeling, and Decision Making
+  bio: "A Dynamic Relation Graph for unified prior-online environment modeling in urban autonomous driving"
+  avatar: /assets/images/posts/map/teaser.png
+  location: "Waterloo, ON"
+  # links:
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/rowandempster/CS885-proj"
+
+action:
+  name: WATonomous Action Classification
+  bio: "A two-stage approach to the ICCV 2021 ROAD Challenge, featuring optical flow based activity detection and a novel dynamic RoI-Alignment approach."
+  avatar: /assets/images/posts/action/teaser.png
+  location: "Waterloo, ON"
+  # links:
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/rowandempster/CS885-proj"
+
+control:
+  name: WATonomous Trajectory Planning and Control
+  bio: "A unified optimal control approach to trajectory planning and control via MPC."
+  avatar: /assets/images/posts/control/teaser.jpeg
+  location: "Waterloo, ON"
+  # links:
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/rowandempster/CS885-proj"
+
+workshops:
+  name: WATonomous Onboarding Workshops
+  bio: "Workshop series from Winter 2022 geared towards onboarding new WATonomous members."
+  avatar: /assets/images/posts/workshops/teaser.png
+  location: "Waterloo, ON"

@@ -1,0 +1,23 @@
+- name: "DRG: A dynamic relation graph for unified prior-online environment modeling in urban autonomous driving"
+  status: Presented (ICRA 2022)
+  url: https://ieeexplore.ieee.org/abstract/document/9812290/
+  image: /assets/images/posts/map/teaser.png
+  co: "Mohammad Al-Sharman, Yeshu Jain, Jeffery Li, Derek Rayside, William Melek"
+
+- name: "Self-Learned Autonomous Driving at Unsignalized Intersections: A Hierarchical Reinforced Learning Approach for Feasible Decision-Making"
+  status: Submitted (TODO)
+  url: https://www.techrxiv.org/articles/preprint/Self-Learned_Autonomous_Driving_at_Unsignalized_Intersections_A_Hierarchical_Reinforced_Learning_Approach_for_Feasible_Decision-Making/20770486
+  image: /assets/images/TMech3.png
+  co: "Mohammad Al-Sharman, Mohamed A Daoud, Mahmoud Nasr, Derek Rayside, William Melek"
+
+- name: "Real-time unified trajectory planning and optimal control for urban autonomous driving under static and dynamic obstacle constraints"
+  status: Submitted (ICRA 2023)
+  url: https://arxiv.org/abs/2209.09320
+  image: /assets/images/posts/control/dataflow.png
+  co: "Mohammad Al-Sharman, Derek Rayside, William Melek"
+
+- name: "RADACS: Towards Higher-Order Reasoning using Action Recognition in Autonomous Vehicles"
+  status: Submitted (ICRA 2023)
+  url: https://arxiv.org/abs/2209.14408
+  image: /assets/images/posts/action/teaser.png
+  co: "Alex Zhuang, Eddy Zhou, Quanquan Li, Alikasim Budhwani, Mohammad Al-Sharman, Derek Rayside, William Melek"

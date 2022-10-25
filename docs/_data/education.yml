@@ -18,10 +18,13 @@
   degree: Masters of Applied Sciences
   url: https://uwaterloo.ca/
   image: /assets/images/org_icons/waterloo.png
-  dates: September 2020 - August 2022
+  dates: September 2020 - December 2022
   courses:
-    - CS646 Computational Vision
+    - SYDE655 Optimal Control
     - ECE780 Model Predictive Control
+    - CS646 Computational Vision
+    - CS763 Computational Geometry
+    - CS885 Reinforcement Learning
   highlights:
     - 95% course work average
     - Alexander Graham Bell Scholarship awardee
