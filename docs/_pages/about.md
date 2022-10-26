@@ -8,6 +8,8 @@ layout: single
 classes: wide
 ---
 
+## Summary
+
 - In June 2020 I graduated from UWaterloo's CS Co-op program, with an academic and extracurricular focus on robotics and automation. 
 - I am graduating from my MASc from UWaterloo in Fall 2022, under the supervision of Derek Rayside.
 - My research is focussed on motion planning software with an application to automated driving. Research topics include mapping & environment modeling, action classification from video steams, and trajectory planning & control. See my [Google Scholar profile](https://scholar.google.com/citations?user=hKf7WaAAAAAJ) for details.
