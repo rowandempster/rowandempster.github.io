@@ -1,6 +1,7 @@
 ---
 title: "Vancouver 2022"
 excerpt: "I went to Vancouver to visit friends, hike, and camp!"
+published: false
 ---
 
 I went to Vancouver to visit friends, hike, and camp!
