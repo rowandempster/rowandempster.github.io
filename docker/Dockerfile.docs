@@ -1,16 +1,13 @@
-# Create a Jekyll container from a Ruby Alpine image
+# Jekyll dev image aligned with GitHub Pages (see https://pages.github.com/versions.json)
 
-# At a minimum, use Ruby 2.5 or later
-FROM ruby:2.7-alpine3.15
+FROM ruby:3.3-alpine
 
-# Add Jekyll dependencies to Alpine
-RUN apk update
 RUN apk add --no-cache build-base gcc cmake git
 
-# Update the Ruby bundler and install Jekyll
-RUN gem update bundler && gem install bundler jekyll
-COPY docs /docs
 WORKDIR /docs
-RUN bundle install
-CMD sh -c "bundle exec jekyll serve"
+COPY docs/Gemfile docs/Gemfile.lock ./
+RUN gem install bundler && bundle install
+
+COPY docs .
 EXPOSE 4000
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0"]
