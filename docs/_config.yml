@@ -39,8 +39,8 @@ breadcrumbs: true
 author:
   name: "Rowan Dempster"
   avatar: "/assets/images/me-big.jpg"
-  bio: "MASc Student @ UWaterloo<br/>Motion planning and decision making for automated driving" # Note: Markdown is allowed
-  location: "Waterloo, ON"
+  bio: "Autonomy & State Estimation Engineer @ Cleo Robotics" # Note: Markdown is allowed
+  location: "Boston, MA"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

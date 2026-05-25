@@ -1,3 +1,14 @@
+- name: Cleo Robotics
+  url: https://cleorobotics.com/
+  image: /assets/images/org_icons/cleo.png
+  position: Autonomy & State Estimation Engineer
+  dates: February 2023 - Present
+  description: |
+    - **Autonomy & state estimation:** Multi-camera VIO fusion in EKF2, dense LiDAR SLAM (FASTER-LIO), GPS/magnetometer calibration, and redundant odometry to prevent field runaways.
+    - **Flight software:** Migrated behavior from legacy middleware into PX4 modules with unit tests; cut rate-control latency and improved yaw tracking on custom hardware.
+    - **Platform & manufacturing:** Monorepo CI/CD, Dockerized releases, fleet OTA bundles, lab bring-up tooling, and a three-stage automated QA pipeline (ULog/PDF reports).
+    - **Leadership & delivery:** DRI for SBIR autonomy; Army and BlueUAS demos; led contractors and interns; contributed to next-gen airframe design.
+
 - name: Matician
   url: https://matician.com/
   image: /assets/images/org_icons/matician.png

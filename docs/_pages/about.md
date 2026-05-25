@@ -16,6 +16,32 @@ classes: wide
 
 Please look through this page to get an idea of what I've done, and where I'm heading!
 
+## Industry Experience
+
+{% for employer in site.data.employers %}
+<a href="{{ employer.url }}" rel="employer website">![employer-image]({{ employer.image }}){: .align-right}
+### {{ employer.name }}
+
+{{ employer.position }} - {{ employer.dates }}
+
+{{ employer.description }}
+{% endfor %}
+
+## Publications
+
+{% for pub in site.data.publications %}
+<!-- <a href="{{ pub.url }}" rel="pub access" style="width:50px;height:60px;">![pub-image]({{ pub.image }}){: .align-right} -->
+<!-- <figure style="width: 200px" class="align-right">
+  <!-- <img src="{{ pub.image }}" alt=""> -->
+  <!-- <a href="{{ pub.image }}"><img src="{{ pub.image }}"></a> -->
+<!-- </figure>  --> 
+### [{{ pub.name }}]({{ pub.url }})
+
+- Status: {{ pub.status }}
+- Co-authors: {{ pub.co }}
+
+{% endfor %}
+
 ## Education
 
 {% for edu in site.data.education %}
@@ -37,33 +63,6 @@ Please look through this page to get an idea of what I've done, and where I'm he
 
 {{ edu.description }}
 {% endfor %}
-
-## Publications
-
-{% for pub in site.data.publications %}
-<!-- <a href="{{ pub.url }}" rel="pub access" style="width:50px;height:60px;">![pub-image]({{ pub.image }}){: .align-right} -->
-<!-- <figure style="width: 200px" class="align-right">
-  <!-- <img src="{{ pub.image }}" alt=""> -->
-  <!-- <a href="{{ pub.image }}"><img src="{{ pub.image }}"></a> -->
-<!-- </figure>  --> 
-### [{{ pub.name }}]({{ pub.url }})
-
-- Status: {{ pub.status }}
-- Co-authors: {{ pub.co }}
-
-{% endfor %}
-
-## Industry Experience
-
-{% for employer in site.data.employers %}
-<a href="{{ employer.url }}" rel="employer website">![employer-image]({{ employer.image }}){: .align-right}
-### {{ employer.name }}
-
-{{ employer.position }} - {{ employer.dates }}
-
-{{ employer.description }}
-{% endfor %}
-
 
 ## Supervisory Experience
 
